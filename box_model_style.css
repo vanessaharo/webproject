@@ -1,0 +1,44 @@
+/*
+  Accent 1: #003366
+  Accent 2: #CC3300
+*/
+
+body {
+  margin: 20px;
+  padding: 20px;
+  font-size: 18px;
+}
+
+h1, h2, h3 {
+  color: #003366;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  margin: 20px;
+  padding: 5px;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+  }
+
+th, td {
+  border: 2px dashed #CC3300;
+  padding: 10px;
+  text-align: center;
+}
+
+a {
+  color: #003366;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #CC3300;
+}
